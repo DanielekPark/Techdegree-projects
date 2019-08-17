@@ -1,2 +1,2 @@
-# Techdegree projects
- Projects
+# Techdegree-projects
+ Techdegree project
